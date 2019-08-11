@@ -1,4 +1,8 @@
 
+# Pipeline Status
+
+[![Build Status](https://dev.azure.com/caol29/DemoProjectJava/_apis/build/status/Champetaman.pipelines-java?branchName=master)](https://dev.azure.com/caol29/DemoProjectJava/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
